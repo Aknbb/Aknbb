@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">I'm Akın from <img src="https://cdn-icons-png.flaticon.com/512/197/197515.png" width="13"/> <b>Ankara, Turkey</b>. A full-stack developer 👩‍💻 who loves to bring ideas to real life with creative and effective products.</p>
+<p align="center">I'm Akın from <img src="https://cdn-icons-png.flaticon.com/512/197/197518.png" width="13"/> <b>Ankara, Turkey</b>. A full-stack developer 👩‍💻 who loves to bring ideas to real life with creative and effective products.</p>
 
 ###
 
