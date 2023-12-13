@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">I'm Akın from Ankara, Turkey. A full-stack developer 👩‍💻 who loves to bring ideas to real life with creative and effective products.</p>
+<p align="center">I'm Akın from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Ankara, Turkey</b>. A full-stack developer 👩‍💻 who loves to bring ideas to real life with creative and effective products.</p>
 
 ###
 
@@ -74,7 +74,7 @@
   <a href="https://www.youtube.com/channel/UC9zTo-SfcB59nQp3lRjjSvg" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/akinbuyukbulut/" target="_blank">
+  <a href="mailto:akinbuyukbulut@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://discordapp.com/users/5536" target="_blank">
